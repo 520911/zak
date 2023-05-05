@@ -1,0 +1,6 @@
+В исследовании используется данные с kaggle.com
+Для работы данного скрипта необходимо:
+- Зарегистрировать на kaggle.com
+- Скачать данные в csv формате по ссылке: https://www.kaggle.com/datasets/rajyellow46/wine-quality
+
+Также можно получить данные в папке /data в файле winequalityN.csv
